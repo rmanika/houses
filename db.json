@@ -1,8 +1,8 @@
 {
   "posts": [
-   { "id": 1, "address": "Chittaranjan street, Nethaji road", "country": "India", "price": "20000" },
-    { "id": 2, "address": "Gandhiji street, Venugopal nagar", "country": "India", "price": "20000" },
-    { "id": 3, "address": "JP nagar, Bengaluru", "country": "India", "price": "100000" }
+   { "id": 1, "address": "Chittaranjan street, Nethaji road", "country": "India", "price": "20000", "description": "this is a very good property" },
+    { "id": 2, "address": "Gandhiji street, Venugopal nagar", "country": "India", "price": "20000", "description": "this is a very old property" },
+    { "id": 3, "address": "JP nagar, Bengaluru", "country": "India", "price": "100000", "description": "this is a very neat property" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
